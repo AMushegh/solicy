@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./Sider.css";
+
 const Sider = () => {
     return (
         <aside className="sider">
